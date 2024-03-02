@@ -11,7 +11,7 @@ export default function DescriptionTwo() {
         <h2 style={{ fontSize: '3em' }} >Testimonials</h2>
           </div>
           <div className="zubuz-section-title leftcenter">
-      <h3>We've earned a 4.8-star Trustpilot rating</h3>
+      <h3>We&apos;ve earned a 4.8-star Trustpilot rating</h3>
     </div>
     <div className="row">
       <div className="col-lg-6">
@@ -38,9 +38,9 @@ export default function DescriptionTwo() {
           <div className="zubuz-testimonial-data">
             <h3>Best finance budgeting app ever!</h3>
             <p>
-              "This finance app has been a game-changer for me! It's made
+            &apos;This finance app has been a game-changer for me! It&apos;s made
               budgeting and tracking my expenses so much easier. I love how
-              intuitive and user-friendly it is."
+              intuitive and user-friendly it is.&apos;
             </p>
           </div>
           <div className="zubuz-testimonial-author">
@@ -78,9 +78,9 @@ export default function DescriptionTwo() {
           <div className="zubuz-testimonial-data">
             <h3>Super helpful to watch my spend</h3>
             <p>
-              "I can't thank this app enough for helping me stay on top of my
+            &apos;I can&apos;t thank this app enough for helping me stay on top of my
               bills. The bill payment reminders have saved me from late fees,
-              &amp; more organized with my finances."
+              &amp; more organized with my finances&apos;
             </p>
           </div>
           <div className="zubuz-testimonial-author">
@@ -118,9 +118,9 @@ export default function DescriptionTwo() {
           <div className="zubuz-testimonial-data">
             <h3>Great app that saves money</h3>
             <p>
-              "The app's integration with my bank accounts is seamless. I can
+              The app&apos;s integration with my bank accounts is seamless. I can
               easily check my balances and transactions without having to log in
-              separately."
+              separately.
             </p>
           </div>
           <div className="zubuz-testimonial-author">
@@ -158,9 +158,9 @@ export default function DescriptionTwo() {
           <div className="zubuz-testimonial-data">
             <h3>Seriously life changing app!</h3>
             <p>
-              "The financial insights and reports have been eye-opening. I now
+              The financial insights and reports have been eye-opening. I now
               have a better understanding of my spending habit and can make
-              adjustment to save more."
+              adjustment to save more.
             </p>
           </div>
           <div className="zubuz-testimonial-author">
