@@ -198,40 +198,40 @@ export default function DescriptionTwo() {
     </div>
     <div className="zubuz-tools-wrap">
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools1.png" alt="" />
+        <img src="assets/images/v2/tools/1.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools2.png" alt="" />
+        <img src="assets/images/v2/tools/2.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools3.png" alt="" />
+        <img src="assets/images/v2/tools/3.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools4.png" alt="" />
+        <img src="assets/images/v2/tools/4.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools5.png" alt="" />
+        <img src="assets/images/v2/tools/5.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools6.png" alt="" />
+        <img src="assets/images/v2/tools/7.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools7.png" alt="" />
+        <img src="assets/images/v2/tools/8.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools8.png" alt="" />
+        <img src="assets/images/v2/tools/9.png" alt="" alt="" style={{ width: '100px', height: '100px' }}/>
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools9.png" alt="" />
+        <img src="assets/images/v2/tools/10.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools10.png" alt="" />
+        <img src="assets/images/v2/tools/11.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
         <img src="assets/images/v2/tools/tools11.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/tools12.png" alt="" />
+        <img src="assets/images/v2/tools/6.png" alt="" />
       </div>
     </div>
         </div>
