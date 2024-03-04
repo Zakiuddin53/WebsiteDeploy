@@ -7,8 +7,8 @@ export default function DescriptionTwo() {
 
           <div className = "section zubuz-section-padding3">
         <div className = "container">
-        <div className="zubuz-section-title left">
-        <h2 style={{ fontSize: '3em' }} >Testimonials</h2>
+        <div className="zubuz-section-title left" style={{paddingBottom:"50px"}}>
+        <h2 style={{ fontSize: '50px' }} >Testimonials</h2>
           </div>
           <div className="zubuz-section-title leftcenter">
       <h3>We&apos;ve earned a 4.8-star Trustpilot rating</h3>
@@ -36,7 +36,7 @@ export default function DescriptionTwo() {
             </ul>
           </div>
           <div className="zubuz-testimonial-data">
-            <h3>Best finance budgeting app ever!</h3>
+            <h3 style={{fontSize:"22px"}}>Best finance budgeting app ever!</h3>
             <p>
             &apos;This finance app has been a game-changer for me! It&apos;s made
               budgeting and tracking my expenses so much easier. I love how
@@ -76,7 +76,7 @@ export default function DescriptionTwo() {
             </ul>
           </div>
           <div className="zubuz-testimonial-data">
-            <h3>Super helpful to watch my spend</h3>
+            <h3 style={{fontSize:"22px"}}>Super helpful to watch my spend</h3>
             <p>
             &apos;I can&apos;t thank this app enough for helping me stay on top of my
               bills. The bill payment reminders have saved me from late fees,
@@ -116,7 +116,7 @@ export default function DescriptionTwo() {
             </ul>
           </div>
           <div className="zubuz-testimonial-data">
-            <h3>Great app that saves money</h3>
+            <h3 style={{fontSize:"22px"}}>Great app that saves money</h3>
             <p>
               The app&apos;s integration with my bank accounts is seamless. I can
               easily check my balances and transactions without having to log in
@@ -156,7 +156,7 @@ export default function DescriptionTwo() {
             </ul>
           </div>
           <div className="zubuz-testimonial-data">
-            <h3>Seriously life changing app!</h3>
+            <h3 style={{fontSize:"22px"}}>Seriously life changing app!</h3>
             <p>
               The financial insights and reports have been eye-opening. I now
               have a better understanding of my spending habit and can make
@@ -185,7 +185,7 @@ export default function DescriptionTwo() {
         <div className="zubuz-section-title zubuz-two-column-title">
       <div className="row">
         <div className="col-lg-8">
-        <h2 style={{ fontSize: '3em' }} >Integration with dozens of tools</h2>
+        <h2 style={{ fontSize: '50px' }} >Integration with dozens of tools</h2>
         </div>
         <div className="col-lg-4 d-flex align-items-center">
           <div className="zubuz-title-btn">
