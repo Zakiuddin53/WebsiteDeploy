@@ -213,19 +213,19 @@ export default function DescriptionTwo() {
         <img src="assets/images/v2/tools/5.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/7.png" alt="" />
+        <img src="assets/images/v2/tools/15.png" alt="" style={{ width: '120px', height: '70px' }}/>
       </div>
       <div className="zubuz-tools-item">
         <img src="assets/images/v2/tools/8.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/9.png" alt="" alt="" style={{ width: '100px', height: '100px' }}/>
+        <img src="assets/images/v2/tools/14.png" alt="" alt="" style={{ width: '100px', height: '100px' }}/>
       </div>
       <div className="zubuz-tools-item">
         <img src="assets/images/v2/tools/10.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
-        <img src="assets/images/v2/tools/11.png" alt="" />
+        <img src="assets/images/v2/tools/16.png" alt="" />
       </div>
       <div className="zubuz-tools-item">
         <img src="assets/images/v2/tools/tools11.png" alt="" />
